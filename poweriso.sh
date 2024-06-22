@@ -1,0 +1,5 @@
+export LD_LIBRARY_PATH=.
+export QT_QPA_PLATFORM_PLUGIN_PATH=.
+./poweriso
+unset LD_LIBRARY_PATH
+
